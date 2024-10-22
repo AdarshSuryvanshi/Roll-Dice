@@ -1,16 +1,4 @@
-# first_app
+The Roll Dice App is a simple and dynamic application developed using Flutter and Dart. It allows users to roll dice with the ability to dynamically change the number of dice being rolled. Each roll generates a random result, ensuring fairness and unpredictability using Dart’s random number generator.
 
-A new Flutter project.
+The app features a clean, intuitive interface, making it easy to use for quick dice rolls in games or casual decision-making. With customizable dice configurations, this app is a flexible tool for simulating dice rolls at any time.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
